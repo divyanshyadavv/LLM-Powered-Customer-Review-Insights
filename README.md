@@ -1,6 +1,3 @@
-Absolutely! Here's a clean, professional summary you can paste directly into your GitHub `README.md` file:
-
----
 
 ## 🧠 LLM-Powered Customer Review Insights
 
