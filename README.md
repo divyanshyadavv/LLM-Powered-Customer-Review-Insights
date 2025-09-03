@@ -1,5 +1,5 @@
 
-## LLM-Powered Customer Review Insights
+LLM-Powered Customer Review Insights
 
 This project leverages **Large Language Models (LLMs)** to extract actionable insights from customer reviews. By applying advanced Natural Language Processing (NLP) techniques, it transforms unstructured feedback into structured, decision-ready insights.
 
